@@ -1,0 +1,7 @@
+# ignore these directories
+.ssh/
+venv-islp/
+
+# ignore these files
+islp_notes.txt
+
